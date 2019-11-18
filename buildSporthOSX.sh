@@ -17,3 +17,4 @@ sudo make install
 # This command should generate a 5 second dialtone.wav file for the purpose of testing functionality. It will be saved in the Sporth directory.
 sporth -d 5s -o dialtone.wav examples/dialtone.sp
 
+echo "Find the \"dialtone.wav\" file in the /Sporth directory and test it with your preferred audio player.\nTry out other Sporth patches at http://paulbatchelor.github.io/proj/cook/"
