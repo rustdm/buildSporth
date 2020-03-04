@@ -8,4 +8,4 @@ Place the .sh file in the desired installation directory.
 
 Run:
 
-sh buildSporthOSX.sh
+sudo sh buildSporthOSX.sh
