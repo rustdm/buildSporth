@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # if homebrew (The OSX package manager) is installed this command should work, else find out how to install homebrew
-brew install libsndfile
+sudo brew install libsndfile
 
 git clone https://github.com/PaulBatchelor/Soundpipe 
 cd Soundpipe/
